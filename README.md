@@ -7,6 +7,13 @@
 
 ---
 
+### Контакты
+
+- email: Katrinmark25@mail.ru &nbsp;|&nbsp; marckovakatrin@yandex.ru
+- Telegram: [@mkkkash](https://t.me/mkkkash)
+
+---
+
 ### Технологии, с которыми работаю:
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
@@ -52,15 +59,6 @@
 - Хочу развиваться как Frontend-разработчик в сильной команде
 - Интересуюсь проектами с красивым UI и продуманным UX
 - Открыта к сотрудничеству в компаниях с гибкой культурой и возможностью роста
-
----
-
-### Контакты
-
-- email: Katrinmark25@mail.ru &nbsp;|&nbsp; marckovakatrin@yandex.ru
-- Telegram: [@mkkkash](https://t.me/mkkkash)
-
-  //Ссылка на портфолио (в разработке)//
 
 ---
 
