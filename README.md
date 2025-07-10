@@ -16,9 +16,16 @@
 
 ### Технологии, с которыми работаю:
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+
+**Библиотеки и фреймворки:**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
+![Redux Thunk](https://img.shields.io/badge/-Redux%20Thunk-593D88?logo=redux&logoColor=white&style=flat)
+
+**Работа с API:**
+![Fetch API](https://img.shields.io/badge/-Работа%20с%20API%20(fetch)-0A66C2?logo=javascript&logoColor=white&style=flat)
 
 **Сборщики:**
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
