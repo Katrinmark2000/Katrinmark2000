@@ -1,5 +1,4 @@
 <h1 align="center">Привет, я Катрин 🌻</h1>
-<p align="center">💻 Frontend Developer | ⚛ React & TypeScript | 🎨 UI Enthusiast</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Открыта+к+новому+опыту;Забочусь+о+деталях;Постоянно+прокачиваю+скиллы;Умею+работать+в+команде&center=true&width=500&height=45">
